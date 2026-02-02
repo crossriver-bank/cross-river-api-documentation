@@ -1,5 +1,5 @@
 # cross-river-postman
-Cross River Postman collection
+Cross River Postman Collection
 
 ## Table of Contents
 - [Cross River Postman Collection](#cross-river-postman-collection)
