@@ -12,8 +12,6 @@ Everything you need to get up and running with Cross River products—quickly an
 
 ## Get started
 
-![Cross River](https://archbee-image-uploads.s3.amazonaws.com/jFSTOPEggK3MxFb9qn5GS-4ysky13QNraHsHCypSj2v-20250206-192129.png)
-
 Set up your environment and begin your journey with Cross River APIs.
 
 🔗 **[Start here](https://docs.crossriver.com/get-started/quickstart)**
@@ -21,8 +19,6 @@ Set up your environment and begin your journey with Cross River APIs.
 ---
 
 ## Concepts
-
-![Cross River](https://archbee-image-uploads.s3.amazonaws.com/T90ICmx1YCYJIjyTDEBU3-aJmcdf1YqA_sV8HY18T0P-20250422-122314.png)
 
 Learn how Cross River solutions work together and how they can support your fintech use cases.
 
@@ -32,8 +28,6 @@ Learn how Cross River solutions work together and how they can support your fint
 
 ## APIs
 
-![Cross River](https://archbee-image-uploads.s3.amazonaws.com/jFSTOPEggK3MxFb9qn5GS-n6jzKfKnP54QFbpPtyipJ-20250212-221053.png)
-
 Build on the Cross River banking platform using our robust and well-documented API sets.
 
 🔗 **[View APIs](https://docs.crossriver.com/apis)**
@@ -41,8 +35,6 @@ Build on the Cross River banking platform using our robust and well-documented A
 ---
 
 ## Tutorials
-
-![Cross River](https://archbee-image-uploads.s3.amazonaws.com/T90ICmx1YCYJIjyTDEBU3-5acwcTxyuAbtB4yDrdgYF-20250422-122137.png)
 
 Follow step-by-step guides to learn how to use Cross River APIs in real-world scenarios.
 
