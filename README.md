@@ -41,7 +41,7 @@ Follow step-by-step guides to learn how to use Cross River APIs in real-world sc
 🔗 **[Go to tutorials](https://docs.crossriver.com/tutorials)**
 
 
-# cross-river-postman
+# Cross River Postman Collection
 Cross River Postman Collection
 
 ## Table of Contents
